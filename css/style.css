@@ -151,11 +151,11 @@ a {
   text-align: center;
   height: 100%;
   padding: 0 2rem;
-  /* position: absolute;
+  position: absolute;
   top: 65px;
   left: 0;
   right: 0;
-  bottom: 0; */
+  bottom: 0;
   background-color: rgba(0, 0, 0, 0.4);
 }
 /*Section What we do  */
